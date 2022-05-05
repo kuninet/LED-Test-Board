@@ -1,4 +1,4 @@
-# KZ80-IOB LED Tedt Board
+# KZ80-IOB LED Test Board
 
 ## 概要
 
@@ -20,4 +20,4 @@
 
 * K65-IOB (6502マイコンI/Oボード)
   * https://github.com/kuninet/Z80_IOB
-  * 
+  * https://kuninet.org/2020/06/14/6502cpu%e3%83%9e%e3%82%a4%e3%82%b3%e3%83%b3%e7%94%a8i-o%e3%83%9c%e3%83%bc%e3%83%891/
